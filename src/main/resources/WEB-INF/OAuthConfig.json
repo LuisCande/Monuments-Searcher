@@ -1,0 +1,10 @@
+{
+ "Foursquare":{
+ 	"tokenUrl":"https://foursquare.com/oauth2/access_token",
+ 	"clientId":"OK1FKCAXM5DFNQWSLMPVOOKIW1N43OFKDBCMFVDCKKKSCJXQ",
+ 	"clientSecret":"UL1SKYGCR14212K4H5FXDKZZFZPFZVQF5D43ZUMZQ3LUWHA5",
+ 	"authorizationFormUrl":"https://es.foursquare.com/oauth2/authenticate",
+ 	"scopes":["foursquare-AuthenticatedUser"]
+}
+
+}
